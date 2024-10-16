@@ -1,0 +1,6 @@
+C:\Users\Gustavo Arias\source\repos\Poyecto_Aula\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\Gustavo Arias\source\repos\Poyecto_Aula\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\Gustavo Arias\source\repos\Poyecto_Aula\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
+C:\Users\Gustavo Arias\source\repos\Poyecto_Aula\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Arias\source\repos\Poyecto_Aula\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\Gustavo Arias\source\repos\Poyecto_Aula\ENTITY\obj\Debug\ENTITY.pdb

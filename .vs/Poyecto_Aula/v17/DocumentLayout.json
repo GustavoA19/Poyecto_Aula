@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gustavo Arias\\source\\repos\\Poyecto_Aula\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47BBCB08-17C3-4B2A-AD34-7741DF27E70F}|ENTITY\\ENTITY.csproj|c:\\users\\gustavo arias\\source\\repos\\poyecto_aula\\entity\\zona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47BBCB08-17C3-4B2A-AD34-7741DF27E70F}|ENTITY\\ENTITY.csproj|solutionrelative:entity\\zona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47BBCB08-17C3-4B2A-AD34-7741DF27E70F}|ENTITY\\ENTITY.csproj|C:\\Users\\Gustavo Arias\\source\\repos\\Poyecto_Aula\\entity\\paquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47BBCB08-17C3-4B2A-AD34-7741DF27E70F}|ENTITY\\ENTITY.csproj|solutionrelative:entity\\paquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47BBCB08-17C3-4B2A-AD34-7741DF27E70F}|ENTITY\\ENTITY.csproj|C:\\Users\\Gustavo Arias\\source\\repos\\Poyecto_Aula\\entity\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47BBCB08-17C3-4B2A-AD34-7741DF27E70F}|ENTITY\\ENTITY.csproj|solutionrelative:entity\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47BBCB08-17C3-4B2A-AD34-7741DF27E70F}|ENTITY\\ENTITY.csproj|C:\\Users\\Gustavo Arias\\source\\repos\\Poyecto_Aula\\entity\\envio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47BBCB08-17C3-4B2A-AD34-7741DF27E70F}|ENTITY\\ENTITY.csproj|solutionrelative:entity\\envio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47BBCB08-17C3-4B2A-AD34-7741DF27E70F}|ENTITY\\ENTITY.csproj|C:\\Users\\Gustavo Arias\\source\\repos\\Poyecto_Aula\\entity\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47BBCB08-17C3-4B2A-AD34-7741DF27E70F}|ENTITY\\ENTITY.csproj|solutionrelative:entity\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{097E3B4B-DA98-46CD-BFE2-0FA4B8276A9F}|GUI\\GUI.csproj|C:\\Users\\Gustavo Arias\\source\\repos\\Poyecto_Aula\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{097E3B4B-DA98-46CD-BFE2-0FA4B8276A9F}|GUI\\GUI.csproj|solutionrelative:gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{097E3B4B-DA98-46CD-BFE2-0FA4B8276A9F}|GUI\\GUI.csproj|C:\\Users\\Gustavo Arias\\source\\repos\\Poyecto_Aula\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{097E3B4B-DA98-46CD-BFE2-0FA4B8276A9F}|GUI\\GUI.csproj|solutionrelative:gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "factura.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo Arias\\source\\repos\\Poyecto_Aula\\ENTITY\\factura.cs",
+              "RelativeDocumentMoniker": "ENTITY\\factura.cs",
+              "ToolTip": "C:\\Users\\Gustavo Arias\\source\\repos\\Poyecto_Aula\\ENTITY\\factura.cs",
+              "RelativeToolTip": "ENTITY\\factura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T04:29:27.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "paquete.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo Arias\\source\\repos\\Poyecto_Aula\\ENTITY\\paquete.cs",
+              "RelativeDocumentMoniker": "ENTITY\\paquete.cs",
+              "ToolTip": "C:\\Users\\Gustavo Arias\\source\\repos\\Poyecto_Aula\\ENTITY\\paquete.cs",
+              "RelativeToolTip": "ENTITY\\paquete.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T04:26:11.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "zona.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo Arias\\source\\repos\\Poyecto_Aula\\ENTITY\\zona.cs",
+              "RelativeDocumentMoniker": "ENTITY\\zona.cs",
+              "ToolTip": "C:\\Users\\Gustavo Arias\\source\\repos\\Poyecto_Aula\\ENTITY\\zona.cs",
+              "RelativeToolTip": "ENTITY\\zona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T04:23:13.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "envio.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo Arias\\source\\repos\\Poyecto_Aula\\ENTITY\\envio.cs",
+              "RelativeDocumentMoniker": "ENTITY\\envio.cs",
+              "ToolTip": "C:\\Users\\Gustavo Arias\\source\\repos\\Poyecto_Aula\\ENTITY\\envio.cs",
+              "RelativeToolTip": "ENTITY\\envio.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvwsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T04:16:54.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo Arias\\source\\repos\\Poyecto_Aula\\ENTITY\\cliente.cs",
+              "RelativeDocumentMoniker": "ENTITY\\cliente.cs",
+              "ToolTip": "C:\\Users\\Gustavo Arias\\source\\repos\\Poyecto_Aula\\ENTITY\\cliente.cs",
+              "RelativeToolTip": "ENTITY\\cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T04:09:24.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo Arias\\source\\repos\\Poyecto_Aula\\GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "GUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Gustavo Arias\\source\\repos\\Poyecto_Aula\\GUI\\Form1.cs",
+              "RelativeToolTip": "GUI\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T03:38:34.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Gustavo Arias\\source\\repos\\Poyecto_Aula\\GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "GUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Gustavo Arias\\source\\repos\\Poyecto_Aula\\GUI\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GUI\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T03:21:39.48Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
